@@ -1,0 +1,54 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            01:d1:9a:49:75:b2:e6:c2:bc:f4:d1:88:db:4f:53:d5:86:b4:70:b5
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C = PK, ST = Islamabad, L = Islamabad, O = SecureChat CA, CN = SecureChat Root CA
+        Validity
+            Not Before: Nov 16 19:17:47 2025 GMT
+            Not After : Nov 16 19:17:47 2026 GMT
+        Subject: C = PK, ST = Islamabad, O = SecureChat Entity, CN = localhost
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b6:8b:42:ab:46:4b:e6:71:94:1b:66:c4:a5:4a:
+                    9d:f4:5c:7a:73:ec:d8:d3:b0:c4:08:5c:d0:cb:ad:
+                    87:96:f0:8a:1b:7b:26:fd:41:fd:df:bd:cb:af:7b:
+                    76:be:d7:8b:ae:68:ec:e9:b2:fe:05:c1:3c:19:92:
+                    85:f8:18:b9:52:fe:f6:eb:0a:e9:0b:8c:9f:c0:38:
+                    a3:41:54:08:77:4c:36:4b:be:af:54:7d:fb:5c:0e:
+                    fe:c5:97:88:c6:e1:b2:b5:f6:71:2d:8e:68:51:66:
+                    f0:db:95:1f:e9:ff:33:2a:2a:74:e2:78:51:13:2b:
+                    7a:71:40:da:9f:f4:c9:5a:8c:05:16:bb:5f:ab:85:
+                    49:8f:bd:bd:ed:b7:8e:89:e2:59:50:86:a3:e0:d6:
+                    85:90:67:fb:59:bc:45:9d:8b:b9:6e:ad:e0:f0:7c:
+                    e4:47:fb:de:38:79:82:05:f8:28:0a:7f:75:13:db:
+                    39:1b:6d:ab:c1:bf:24:d5:93:7a:12:c8:e2:00:e5:
+                    f5:aa:87:fb:58:f6:0b:58:21:16:91:47:fe:7e:a7:
+                    67:45:5f:9f:67:4c:e2:9c:d7:1c:98:d1:ea:a6:7f:
+                    25:e9:17:20:48:a2:01:43:34:61:6e:13:37:fe:27:
+                    99:5f:14:fa:65:56:be:8e:0e:b9:dc:31:54:4c:ef:
+                    16:ad
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Alternative Name: 
+                DNS:localhost
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        70:0e:8d:94:9f:af:bc:74:d0:83:a9:88:fa:3f:3a:2b:73:f6:
+        38:a1:cb:71:43:0e:93:72:f9:d7:fa:f7:78:5b:10:33:c2:56:
+        13:ca:73:3f:27:06:60:26:fb:58:42:46:f0:e0:4b:2a:09:0a:
+        2b:65:51:da:48:03:c3:6c:10:a1:24:43:bd:91:25:3b:fe:68:
+        3e:a5:be:c8:7b:af:96:a5:7f:be:c6:80:35:1a:0e:bb:e9:9b:
+        43:d8:ea:0a:7e:81:1a:57:31:78:d0:54:7b:3f:43:7f:1b:5c:
+        b2:fd:5d:54:6a:fd:e5:e4:5a:c0:81:8f:9f:f3:95:63:86:d0:
+        8f:68:12:a1:b2:23:81:51:f2:af:4e:d2:b8:65:e8:f8:e1:67:
+        9b:7f:c2:03:ac:be:e2:09:a1:b2:2f:75:d3:dc:57:fb:60:57:
+        18:a3:0a:23:03:df:ab:16:85:d1:08:e9:65:04:2e:d5:02:41:
+        23:b3:0f:30:ac:7e:87:1b:ff:4a:5f:ba:8b:14:e8:5c:ad:bd:
+        bb:5b:42:f3:a3:e5:ec:bb:85:ea:7b:a9:20:53:ba:28:8b:97:
+        47:9b:ac:a3:e9:f2:29:b4:f0:06:c2:47:3c:4f:df:f2:7c:90:
+        d3:97:a8:69:50:f0:e7:60:75:af:0b:c8:39:7e:8a:70:0d:60:
+        3d:10:8f:19

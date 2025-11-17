@@ -1,0 +1,5 @@
+# Certificate Authority & Keys
+certs/
+.env
+pycache/ *.pyc
+.venv/ venv/
